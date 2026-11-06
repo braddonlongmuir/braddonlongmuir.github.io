@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://braddon.longmuir.com.au/sitemap.xml
