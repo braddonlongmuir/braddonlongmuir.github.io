@@ -1,4 +1,2 @@
-<p>personal portfolio site</p>
-<p>html only</p>
-<p>low weight</p>
-<a href="https://braddonlongmuir.github.io/index.html">braddonlongmuir.github.io</a>
+<p>✶<br>Braddon Longmuir<br>Experience Designer in Sydney<br>Portfolio site<br>Hand coded<br>lightweight HTML</p>
+<a href="https://braddonlongmuir.github.io/index.html">braddonlongmuir.com.au</a>
